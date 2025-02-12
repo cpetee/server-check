@@ -1,3 +1,5 @@
+##feb 12th 2025
+
 #!/bin/bash
 
 ## check services depending on OS version
